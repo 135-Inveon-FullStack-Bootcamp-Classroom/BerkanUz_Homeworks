@@ -13,8 +13,8 @@ const KeysSection = () => {
   return (
     <div style={styles.container}>
       <KeyButton label="%" />
-      <KeyButton label="CE" />
-      <KeyButton label="C" />
+      <KeyButton label="CE" operator/>
+      <KeyButton label="C" operator/>
       <KeyButton label="<-" />
 
       <KeyButton label="1/x" />
@@ -40,7 +40,7 @@ const KeysSection = () => {
       <KeyButton label="+/-" isNumber />
       <KeyButton label="0" isNumber />
       <KeyButton label="," isNumber />
-      <KeyButton label="=" isBlue />
+      <KeyButton label="=" isBlue operator />
     </div>
   );
 };

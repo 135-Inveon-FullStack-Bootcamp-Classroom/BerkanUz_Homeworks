@@ -30,7 +30,7 @@ const ScreenSection = () => {
     if (lastResult && currentOperation)
       return (
         <span style={styles.caption}>
-          {lastResult} {currentOperation}
+          ({lastResult}) {currentOperation}
         </span>
       );
   };
@@ -39,6 +39,7 @@ const ScreenSection = () => {
     <div style={styles.screenSection}>
       {renderCaption()}
       <span style={styles.mainText}>{mainText}</span>
+      
     </div>
   );
 };
