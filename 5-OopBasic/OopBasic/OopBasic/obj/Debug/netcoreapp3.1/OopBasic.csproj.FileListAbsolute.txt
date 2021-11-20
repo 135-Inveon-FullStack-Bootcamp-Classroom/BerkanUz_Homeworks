@@ -1,0 +1,14 @@
+C:\Users\berka\source\repos\OopBasic\OopBasic\bin\Debug\netcoreapp3.1\OopBasic.exe
+C:\Users\berka\source\repos\OopBasic\OopBasic\bin\Debug\netcoreapp3.1\OopBasic.deps.json
+C:\Users\berka\source\repos\OopBasic\OopBasic\bin\Debug\netcoreapp3.1\OopBasic.runtimeconfig.json
+C:\Users\berka\source\repos\OopBasic\OopBasic\bin\Debug\netcoreapp3.1\OopBasic.runtimeconfig.dev.json
+C:\Users\berka\source\repos\OopBasic\OopBasic\bin\Debug\netcoreapp3.1\OopBasic.dll
+C:\Users\berka\source\repos\OopBasic\OopBasic\bin\Debug\netcoreapp3.1\OopBasic.pdb
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.AssemblyInfo.cs
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.dll
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.pdb
+C:\Users\berka\source\repos\OopBasic\OopBasic\obj\Debug\netcoreapp3.1\OopBasic.genruntimeconfig.cache
